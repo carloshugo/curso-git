@@ -34,7 +34,7 @@ namespace primeiro_projeto {
 
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + P.ToString());
-            Console.WriteLine("Fim do Sistema");
+            Console.WriteLine("Fim do Sistema   ");
 
             
 
